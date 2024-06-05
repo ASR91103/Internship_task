@@ -1,0 +1,112 @@
+.App {
+    text-align: center;
+}
+
+.form {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    margin-right: 15%;
+    margin-top: 1621px;
+
+}
+
+.input {
+    font-size: larger;
+    padding: 8px;
+    margin: 13px;
+    height: fit-content;
+    width: 200px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.label {
+    display: block;
+    font-size: larger;
+    color: black;
+    padding: 5px;
+}
+
+.user-res h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 209px;
+}
+
+.formtemplate {
+    text-align: center;
+    margin: 221px;
+    margin-right: 238px;
+    background: transparent;
+    margin-top: 18px;
+}
+
+#trains {
+    width: 200px;
+    font-size: larger;
+    border-radius: 9px;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#counceller {
+    width: 300px;
+    font-size: larger;
+    border-radius: 9px;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#room {
+    width: 200px;
+    font-size: larger;
+    border-radius: 9px;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#city {
+    width: 200px;
+    font-size: larger;
+    border-radius: 9px;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#rtmode {
+    width: 200px;
+    font-size: larger;
+    border-radius: 9px;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#iskonlogo {
+    height: 120px;
+    width: 120px;
+    margin-left: 1213px;
+    margin-top: 50px;
+    border-radius: 75px;
+}
+
+#lgot {
+    height: fit-content;
+    width: fit-content;
+    margin-left: 1200px;
+    margin-top: 45px;
+}
+
+#abt {
+    height: fit-content;
+    width: fit-content;
+    margin-left: 1200px;
+    margin-top: 40px;
+
+}

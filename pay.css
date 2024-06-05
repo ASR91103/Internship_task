@@ -1,0 +1,22 @@
+#iskonlogo {
+    height: 120px;
+  width: 120px;
+  margin-left: 1213px;
+  margin-top: 50px;
+  border-radius: 75px;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ayodhya
+{
+    height: 120px;
+    width: 120px;
+    margin-left:20px;
+    margin-top: 50px;
+    border-radius: 75px;
+}
+

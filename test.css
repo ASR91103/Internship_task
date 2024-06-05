@@ -1,0 +1,25 @@
+.orf{
+    /* background-color: black; */
+    margin-left: 460px;
+}
+
+#lg{
+    margin: 20px;
+    margin-left: 58px;
+}
+
+.Lblock{
+    display: flex;
+}
+input{
+    color: black;
+}
+
+.textdanger{
+    color:brown;
+}
+
+.fr{
+    margin-left: 75px;
+}
+

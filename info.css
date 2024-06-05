@@ -1,0 +1,48 @@
+#iskonlogo {
+    height: 120px;
+  width: 120px;
+  margin-top: 50px;
+  border-radius: 75px;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.information {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+#abt{
+	height:fit-content;
+	width:fit-content;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 645px;
+}
+
+#ayodhya
+{
+    height: 120px;
+    width: 120px;
+    margin-left:20px;
+    margin-top: 50px;
+    border-radius: 75px;
+}
+
+.logoblock{
+    display: flex;
+    width: 100px;
+    height: 45px;
+}
+
+.row{
+    flex: 40%;
+  }
+  
